@@ -1,5 +1,5 @@
 # ✨🫡 About Me 👋✨
-### gmail : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:38265ye@gmail.com)](38265ye@gmail.com)
+#### [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:38265ye@gmail.com)](38265ye@gmail.com)  38265ye@gmail.com
 
 
 ---
