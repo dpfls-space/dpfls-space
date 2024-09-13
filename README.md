@@ -1,6 +1,6 @@
 # ✨🫡 About Me 👋✨
 #### [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:38265ye@gmail.com)](38265ye@gmail.com)  38265ye@gmail.com
-
+#### [![velog Badge](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@38265ye/posts)](https://velog.io/@38265ye/posts)  https://velog.io/@38265ye/posts
 
 ---
 ## 🛠️ Stacks
