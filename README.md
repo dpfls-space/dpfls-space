@@ -1,14 +1,28 @@
 # ✨🫡 About Me 👋✨
 
+<!--스텟-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpfls-space&layout=donut&show_icons=true&theme=swift&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dpfls-space&show_icons=true&theme=swift&hide_border=true&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpfls-space&theme=graywhite&bg_color=f6f8fa&hide_border=true&line=0c0c0c&color=353a40" width=94%/>
+</a>
+
+---
+
 #### [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:38265ye@gmail.com)](38265ye@gmail.com)  38265ye@gmail.com
 #### [![velog Badge](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@38265ye/posts)](https://velog.io/@38265ye/posts)  https://velog.io/@38265ye/posts
 
-<hr/>
+---
 
 <h2>🛠️ Stacks </h2>
 
 ### <img src="https://img.shields.io/badge/java-blue?style=round-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/jquery-blue?style=round-square&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-3B0B0B?style=flat-square&logo=Oracle&logoColor=F80000"/> <img src="https://img.shields.io/badge/jsp-blue?style=round-square&logo=jsp&logoColor=orange"/>
 
+---
 
 ## ⚒️ Tools
 
