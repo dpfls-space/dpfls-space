@@ -7,9 +7,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=dpfls-space&show_icons=true&theme=swift&hide_border=true&count_private=true" width=56% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpfls-space&theme=graywhite&bg_color=f6f8fa&hide_border=true&line=0c0c0c&color=353a40" width=94%/>
-</a>
 
 ---
 
@@ -27,3 +24,9 @@
 ## ⚒️ Tools
 
 ### <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/figma-white?style=flat-square&logo=figma&logoColor=F24E1E"/> 
+
+---
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpfls-space&theme=graywhite&bg_color=f6f8fa&hide_border=true&line=0c0c0c&color=353a40" width=94%/>
+</a>
