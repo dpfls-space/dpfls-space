@@ -4,10 +4,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpfls-space&layout=compact&show_icons=true&theme=swift&hide_border=true&hide=dockerFile&count_private=true&exclude_repo=Face-Transfer-Application" width=38%/>
 </a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=dpfls-space&show_icons=true&theme=swift&hide_border=true&hide=stars&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width=56%/>
 </a>
-
+ -->
 ---
 
 #### [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:38265ye@gmail.com)](38265ye@gmail.com)  38265ye@gmail.com
