@@ -1,13 +1,4 @@
 # ✨🫡 About Me 👋✨
-
-<!--스텟-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpfls-space&layout=compact&show_icons=true&theme=swift&hide_border=true&hide=dockerFile&count_private=true&exclude_repo=Face-Transfer-Application" width=38%/>
-</a>    
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=dpfls-space&show_icons=true&theme=swift&hide_border=true&hide=stars&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width=56%/>
-</a>
- -->
 ---
 
 #### [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:38265ye@gmail.com)](38265ye@gmail.com)  38265ye@gmail.com
@@ -26,7 +17,14 @@
 ### <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/figma-white?style=flat-square&logo=figma&logoColor=F24E1E"/> 
 
 ---
-
+<!--스텟-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpfls-space&layout=compact&show_icons=true&theme=swift&hide_border=true&hide=dockerFile&count_private=true&exclude_repo=Face-Transfer-Application" width=38%/>
+</a>    
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dpfls-space&show_icons=true&theme=swift&hide_border=true&hide=stars&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width=56%/>
+</a>
+ -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpfls-space&theme=graywhite&bg_color=f6f8fa&hide_border=true&line=0c0c0c&color=353a40" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpfls-space&theme=graywhite&bg_color=f6f8fa&hide_border=true&line=0c0c0c&color=353a40" width=56%/>
 </a>
