@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpfls-space&layout=compact&show_icons=true&theme=swift&hide_border=true&hide=dockerFile&count_private=true&exclude_repo=Face-Transfer-Application" width=38%/>
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dpfls-space&show_icons=true&theme=swift&hide_border=true&hide=stars&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&exclude_repo=github-readme-stats" width=56%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dpfls-space&show_icons=true&theme=swift&hide_border=true&hide=stars&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" width=56%/>
 </a>
 
 ---
