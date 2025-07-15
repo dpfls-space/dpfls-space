@@ -2,10 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d00fd,100:b4f3ff&height=300&text=About%20Me%20🙂✨&animation=blinking&fontColor=ffffff&fontSize=70" />
 </div>
 
-#### [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:38265ye@gmail.com)](38265ye@gmail.com)  38265ye@gmail.com
-#### [![velog Badge](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@38265ye/posts)](https://velog.io/@38265ye/posts)  https://velog.io/@38265ye/posts
-
-<br>
 
 ## 🛠️ Stacks
 
@@ -47,6 +43,14 @@
   <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 <br>
+  
+---
+## 🧑‍💻 Contact me
+<div align= "center">
+    <a href=mailto:38265ye@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:38265ye@gmail.com"> </a>
+    <a href=https://velog.io/@38265ye/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@38265ye/posts"> </a>
+</div>
+<br> 
   
 ---
 <!--스텟-->
