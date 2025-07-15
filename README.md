@@ -46,9 +46,13 @@
   
 ---
 ## 🧑‍💻 Contact me
-<div align= "center">
-    <a href=mailto:38265ye@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:38265ye@gmail.com"> </a>
-    <a href=https://velog.io/@38265ye/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@38265ye/posts"> </a>
+<div>
+    <a href=mailto:38265ye@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:38265ye@gmail.com"> 
+        <h4> 38265ye@gmail.com </h4>
+    </a>
+    <a href=https://velog.io/@38265ye/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@38265ye/posts">
+        <h4> https://velog.io/@38265ye/posts </h4>
+    </a>
 </div>
 <br> 
   
