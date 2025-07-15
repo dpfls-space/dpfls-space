@@ -47,7 +47,7 @@
 ---
 ## 🧑‍💻 Contact me
 <div>
-    <a href=mailto:38265ye@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:38265ye@gmail.com"> 38265ye@gmail.com </a>
+    <a href=mailto:38265ye@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:38265ye@gmail.com"> 38265ye@gmail.com </a> <br>
     <a href=https://velog.io/@38265ye/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@38265ye/posts"> https://velog.io/@38265ye/posts </a>
 </div>
 <br> 
