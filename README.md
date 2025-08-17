@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d00fd,100:b4f3ff&height=500&text=About%20Me%20🙂✨&animation=blinking&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=72C9FA&text=About%20Me%20🙂✨&section=header&textBg=false&fontAlignY=42&fontColor=fff" />
 </div>
 
 
@@ -46,21 +46,8 @@
   
 ---
 ## 🧑‍💻 Contact me
-<div>
-    <a href=mailto:38265ye@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:38265ye@gmail.com"> 38265ye@gmail.com </a> <br>
-    <a href=https://velog.io/@38265ye/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@38265ye/posts"> https://velog.io/@38265ye/posts </a>
-</div>
-<br> 
-  
----
-<!--스텟-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpfls-space&layout=compact&show_icons=true&theme=swift&hide_border=true&hide=dockerFile&count_private=true&exclude_repo=Face-Transfer-Application" width=38%/>
-</a>    
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=dpfls-space&show_icons=true&theme=swift&hide_border=true&hide=stars&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width=56%/>
-</a>
- -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpfls-space&theme=graywhite&bg_color=f6f8fa&hide_border=true&line=0c0c0c&color=353a40" width=56%/>
-</a>
+
+|정보|연락처|
+|--------|------|
+| [![Gmail Badge](https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:38265ye@gmail.com) | 38265ye@gmail.com |
+| [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](link:https://velog.io/@38265ye/posts) | https://velog.io/@38265ye/posts |
