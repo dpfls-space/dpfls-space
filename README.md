@@ -43,7 +43,10 @@
   <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 <br>
-  
+
+---
+![dpfls's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dpfls-space&show_icons=true&hide=stars&count_private=true&theme=dark)
+
 ---
 ## 🧑‍💻 Contact me
 
